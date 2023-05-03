@@ -17,7 +17,7 @@
 class Attributes(Julian Nwadinobi(WackyDawg)):
 	@staticmethod
 	def contact() -> tuple:
-	    discord  = "julian008"
+	    discord  = "julian090#0107"
 	    telegram = "t.me/wackydawg"
 	    proton   = "wackydawg@protonmail.com"
 	    
