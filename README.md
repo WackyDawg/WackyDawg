@@ -67,6 +67,7 @@ class Attributes(WackyDawg):
 
 <p href="https://discord.gg/julian008" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=wackydawg&theme=tokyonight&show_icons=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackydawg&layout=compact&theme=algolia" alt="top-languages">
 </p>
 
 <!--START_SECTION:waka-->
