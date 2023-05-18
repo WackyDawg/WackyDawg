@@ -65,10 +65,11 @@ class Attributes(Julian Nwadinobi(WackyDawg)):
   </a>
 </p>
 
-<p href="https://discord.gg/julian008" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=wackydawg&theme=tokyonight&show_icons=true">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wackydawg&layout=compact&theme=algolia" alt="top-languages">
-</p>
+[![Vahiwe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spartan&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+
+[![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=spartan&count_private=true&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+
+[![Vahiwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spartan&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
