@@ -65,7 +65,7 @@ class Attributes(Julian Nwadinobi(WackyDawg)):
   </a>
 </p>
 
-[![Vahiwe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spartan&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+[![Vahiwe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spartan&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/WackyDawg/github-readme-stats)
 
 [![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=spartan&count_private=true&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
