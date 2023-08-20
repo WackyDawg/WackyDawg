@@ -38,7 +38,7 @@ class Attributes(Julian Nwadinobi(WackyDawg)):
 			'intermediate': ['python', 'javascript'],
 			'learning': ['Flutter', 'Nodejs', 'AWS', 'Blockchain', 'JAVA','REACT JS']
 		}
-		specialities  = ['web/app reverse engineering', 'fullstack', 'skidding (joke)']
+		specialities  = ['web/app reverse engineering', 'fullstack', 'Backend Development']
 		environnement = ['vscode', 'pycharm','sublimetext','phpstorm']
 		
 		return langs, specialities, environnement
