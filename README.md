@@ -27,7 +27,7 @@ class Attributes(Julian Nwadinobi(WackyDawg)):
 	def life() -> tuple:
 		langs         = ['English','Igbo']
 		nationalities = self.langs.remove('').append('Nigerian')
-		age           = 17
+		age           = 18
 		
 		return langs, nationalities, age
 	
