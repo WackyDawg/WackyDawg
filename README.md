@@ -69,7 +69,7 @@ class Attributes(Julian Nwadinobi(WackyDawg)):
 
 [![Vahiwe's github stats](https://github-readme-stats.vercel.app/api?username=spartan&count_private=true&show_icons=true&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
-[![Vahiwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vahiwe&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+[![Vahiwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spartan&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
