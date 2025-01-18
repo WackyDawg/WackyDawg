@@ -14,7 +14,7 @@
 </p>
 
 ```python
-class Attributes(Julian Nwadinobi(WackyDawg)):
+class Attributes(WackyDawg):
     @staticmethod
     def contact() -> tuple:
         discord  = "julian090#0107"  # 📱 Discord: Let's talk tech or share memes! 🤙
