@@ -52,8 +52,7 @@ class Attributes(WackyDawg):
         cool_projects = [
             "AI-driven website recommendation engine 🤖 – because everyone loves personalized suggestions!",
             "Blockchain-based voting system 🔒🗳️ – Making elections more secure, one block at a time!",
-            "A smart home automation app 🏠💡 – Controlling lights with a tap... or a voice command!",
-            "A real-time collaborative whiteboard app 🖍️ – Work together, even from miles apart!"
+            "A smart home automation app 🏠💡 – Controlling lights with a tap... or a voice command!"
         ]
 
         habit = [
