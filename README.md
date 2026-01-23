@@ -97,7 +97,7 @@ class Attributes(WackyDawg):
 
 ```
 - 🔭 Automation,Fullstack Development,Mobile App Development
-- 💭 Flutter Community Builder
+- 💭 Flutter Community Builder ᏖᏂᏋ ᎶᏋᏋᏦ
 - 🌱 I’m currently learning Flutter,Nodejs,AWS,Blockchain,JAVA,REACT
 - 🤔 [Technical Writer](https://medium.com/@wackydawg)
 - 📫 How to reach me: [@wackydawg](https://twitter.com/wackydawg)
