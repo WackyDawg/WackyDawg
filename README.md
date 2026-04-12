@@ -27,7 +27,7 @@ class Attributes(WackyDawg):
     def life() -> tuple:
         langs         = ['English', 'Igbo']  # 🗣️ Languages: English for the world, Igbo for the soul!
         nationalities = ['Nigerian']  # 🌍 Proudly Nigerian, representing from Africa to the world!
-        age           = 19  # 🎂 Age: I'm 19, but my coding skills are timeless! ⏳
+        age           = 20  # 🎂 Age: I'm 20, but my coding skills are timeless! ⏳
 
         fun_facts = [
             "Always with a cup of coffee ☕ when I'm coding (because debugging needs energy! ⚡)",
@@ -111,11 +111,14 @@ class Attributes(WackyDawg):
   </a>
 </p>
 
-[![Vahiwe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wackydawg&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/WackyDawg/github-readme-stats)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
-[![Vahiwe's github stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=wackydawg&show_icons=true&count_private=true&bg_color=161B22&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_border=true)]
+[![wackydawg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wackydawg&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/WackyDawg/github-readme-stats)
 
-[![Vahiwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spartan&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
+[![wackydawg's github stats](https://denvercoder1-github-readme-stats.vercel.app/api/?username=wackydawg&show_icons=true&count_private=true&bg_color=161B22&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_border=true)]
+
+[![wackydawgs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spartan&layout=compact&theme=dracula)](https://github.com/vahiwe/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
