@@ -111,6 +111,7 @@ class Attributes(WackyDawg):
   </a>
 </p>
 
+<h2 align="center">Badges and Certifications </h2>
 <!--START_SECTION:badges-->
 <p>
 <a href="https://www.credly.com/badges/b9212739-b46c-42ca-a531-a9124014292c" title="LFS250: Kubernetes and Cloud Native Essentials"><img src="https://images.credly.com/size/340x340/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob" alt="LFS250: Kubernetes and Cloud Native Essentials" width="110" height="110" /></a>
