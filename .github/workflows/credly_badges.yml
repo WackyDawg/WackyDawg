@@ -1,4 +1,4 @@
-name: Update Badges
+name: Update Credly Badges
 
 on:
   schedule:
@@ -7,13 +7,30 @@ on:
 
 jobs:
   update-badges:
-    name: Update README with Credly Badges
+    name: Fetch and inject Credly badges into README
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - name: Update Badges
-        uses: WackyDawg/badge-readme@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          CREDLY_USER: wackydawg
-          NUMBER_LAST_BADGES: 10
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run badge updater
+        run: node scripts/credly.js julian-nwadinobi.aa0c6c6c
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update Credly badges [skip ci]"
+          git push

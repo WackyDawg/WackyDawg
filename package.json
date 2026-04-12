@@ -1,0 +1,11 @@
+{
+  "name": "wackydawg-profile",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "update-badges": "node scripts/credly.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
