@@ -42,9 +42,9 @@ class Attributes(WackyDawg):
     @staticmethod
     def coding() -> tuple:
         langs = {
-            'expert':   ['PHP(Laravel)'],  # 💻 Expert: PHP & Laravel – I build websites that scale with ease!
-            'intermediate': ['Python', 'JavaScript'],  # 🧠 Intermediate: Python & JS – Crafting code for the future!
-            'learning': ['Flutter', 'Node.js', 'AWS', 'Blockchain', 'Java', 'ReactJS']  # 🚀 Learning: Always leveling up my tech stack!
+          'expert': ['JavaScript (Node.js)'], 
+          'intermediate': ['Python', 'Git'], 
+          'learning': ['AWS', 'GCP', 'Docker', 'Kubernetes', 'Blockchain', 'Java', 'AI Agents / LangChain', 'Cybersecurity / CTF']
         }
         specialities  = ['Web/App Reverse Engineering', 'Full-stack Development', 'Backend Development']  # 🔧 Specialties: Full-stack for life, but I love diving deep into the backend!
         environment   = ['VSCode', 'PyCharm', 'SublimeText', 'PHPStorm']  # 🌟 My IDEs: Code, debug, repeat.
