@@ -112,6 +112,9 @@ class Attributes(WackyDawg):
 </p>
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b9212739-b46c-42ca-a531-a9124014292c" title="LFS250: Kubernetes and Cloud Native Essentials"><img src="https://images.credly.com/size/80x80/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob" alt="LFS250: Kubernetes and Cloud Native Essentials" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7a4a2615-5405-4259-afe8-64070a804e11" title="LFS158: Introduction to Kubernetes"><img src="https://images.credly.com/size/80x80/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/b2d9b058-2668-4377-8d1b-97da61fc4e9e" title="Associate Cloud Engineer Certification"><img src="https://images.credly.com/size/80x80/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Associate Cloud Engineer Certification" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 [![wackydawg's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wackydawg&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/WackyDawg/github-readme-stats)
