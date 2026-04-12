@@ -2,8 +2,8 @@ name: Update Badges
 
 on:
   schedule:
-    - cron: "0 2 * * *"   
-  workflow_dispatch:        
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
 jobs:
   update-badges:
@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: Update Badges
-        uses: pemtajo/badge-readme@main
+        uses: WackyDawg/badge-readme@main
         with:
-          CREDLY_USER: julian-nwadinobi.aa0c6c6c   
-          NUMBER_LAST_BADGES: 0             
+          CREDLY_USER: wackydawg
+          NUMBER_LAST_BADGES: 10
