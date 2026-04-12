@@ -120,6 +120,8 @@ class Attributes(WackyDawg):
 </p>
 <!--END_SECTION:badges-->
 
+<br><br>
+
 [![wackydawg's Top Langs](https://github-readme-stats-seven-pi-82.vercel.app/api/top-langs/?username=wackydawg&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/WackyDawg/github-readme-stats)
 
 [![wackydawg's github stats](https://github-readme-stats-seven-pi-82.vercel.app/api/?username=wackydawg&show_icons=true&count_private=true&bg_color=161B22&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&hide_border=true)]
