@@ -50,10 +50,10 @@ function generateBadgeHTML(badges) {
         const name = badge.badge_template.name;
         const badgeUrl = `https://www.credly.com/badges/${badge.id}`;
         const imageUrl = toHighResUrl(badge.image_url);
-        return `<a href="${badgeUrl}" title="${name}"><img src="${imageUrl}" alt="${name}" width="110" height="110" /></a>`;
+        return `<a href="${badgeUrl}" title="${name}"><img src="${imageUrl}" alt="${name}" width="100" /></a>`;
     });
 
-    return `<div align="center">\n${items.join(' ')}\n</div>`;
+    return `<p align="center">${items.join('')}</p>`;
 }
 
 function updateReadme(badgeHTML) {
