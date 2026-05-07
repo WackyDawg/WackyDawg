@@ -1,12 +1,13 @@
 <!-- new discord server: https://discord.gg/onlp -->
 <!-- Hi skid <3 -->
+
 [![wakatime](https://wakatime.com/badge/user/77640a77-0b7a-4fef-abde-4891fd797e8d.svg)](https://wakatime.com/@77640a77-0b7a-4fef-abde-4891fd797e8d)
 [![twitter](https://img.shields.io/twitter/follow/wackydawg?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/wackydawg)
 [![github](https://img.shields.io/github/followers/wackydawg?logo=github&style=plastic)](https://github.com/wackydawg?tab=followers)
-  
-<!-- <p align="center">  
+
+<!-- <p align="center">
     <img alt="" src=https://img.shields.io/github/stars/wackydawg?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
-    <img alt="" src=https://komarev.com/ghpvc/?username=wackydawg&style=for-the-badge />  
+    <img alt="" src=https://komarev.com/ghpvc/?username=wackydawg&style=for-the-badge />
 </p> -->
 
 <p href="https://discord.gg/julian008" align="center">
@@ -42,8 +43,8 @@ class Attributes(WackyDawg):
     @staticmethod
     def coding() -> tuple:
         langs = {
-          'expert': ['JavaScript (Node.js)'], 
-          'intermediate': ['Python', 'Git'], 
+          'expert': ['JavaScript (Node.js)'],
+          'intermediate': ['Python', 'Git'],
           'learning': ['AWS', 'GCP', 'Docker', 'Kubernetes', 'Blockchain', 'Java', 'AI Agents / LangChain', 'Cybersecurity / CTF']
         }
         specialities  = ['Web/App Reverse Engineering', 'Full-stack Development', 'Backend Development']  # 🔧 Specialties: Full-stack for life, but I love diving deep into the backend!
@@ -67,14 +68,14 @@ class Attributes(WackyDawg):
     @staticmethod
     def projects() -> tuple:
         website_clones = ['AliExpress Clone', 'Amazon Clone', 'Netflix Clone', 'YouTube Clone']  # 🛒 Project Showcase: I love making clones of the giants, but with my own twist!
-        
+
         extra_projects = [
             "AI-powered content recommendation system 📚 – Tailoring suggestions just for you!",
             "Real-time multiplayer online game 🎮 – Compete with friends or random players!",
             "E-commerce app with integrated payment gateway 💳 – Because online shopping should be seamless!",
             "Weather forecasting app 🌦️ – Plan your day based on accurate, real-time data!"
         ]
-        
+
         return website_clones, extra_projects
 
     @staticmethod
@@ -86,22 +87,22 @@ class Attributes(WackyDawg):
             "Music 🎶: Coding with a playlist is my jam – my go-to genres: Lo-fi, EDM, and hip-hop!",
             "Reading 📚: From tech books to fantasy novels – a good book is a great escape."
         ]
-        
+
         fun_habits = [
             "I always carry a notebook 📒 to jot down ideas or solve problems when I'm away from the computer.",
             "I enjoy mentoring others and love helping newcomers break into tech – everyone deserves to code! 💡"
         ]
-        
+
         return hobbies, fun_habits
 
 
 ```
+
 - 🔭 Automation,Fullstack Development,Mobile App Development
 - 💭 Flutter Community Builder ᏖᏂᏋ ᎶᏋᏋᏦ
 - 🌱 I’m currently learning Flutter,Nodejs,AWS,Blockchain,JAVA,REACT
 - 🤔 [Technical Writer](https://medium.com/@wackydawg)
 - 📫 How to reach me: [@wackydawg](https://twitter.com/wackydawg)
-
 
 <h2 align="center">Skills </h2>
 
@@ -113,11 +114,7 @@ class Attributes(WackyDawg):
 
 <h2 align="center">Badges and Certifications </h2>
 <!--START_SECTION:badges-->
-<p>
-<a href="https://www.credly.com/badges/b9212739-b46c-42ca-a531-a9124014292c" title="LFS250: Kubernetes and Cloud Native Essentials"><img src="https://images.credly.com/size/340x340/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob" alt="LFS250: Kubernetes and Cloud Native Essentials" width="110" height="110" /></a>
-<a href="https://www.credly.com/badges/7a4a2615-5405-4259-afe8-64070a804e11" title="LFS158: Introduction to Kubernetes"><img src="https://images.credly.com/size/340x340/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" alt="LFS158: Introduction to Kubernetes" width="110" height="110" /></a>
-<a href="https://www.credly.com/badges/b2d9b058-2668-4377-8d1b-97da61fc4e9e" title="Associate Cloud Engineer Certification"><img src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" alt="Associate Cloud Engineer Certification" width="110" height="110" /></a>
-</p>
+
 <!--END_SECTION:badges-->
 
 <br><br>
