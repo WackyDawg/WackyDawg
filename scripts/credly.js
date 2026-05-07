@@ -53,7 +53,7 @@ function generateBadgeHTML(badges) {
         return `<a href="${badgeUrl}" title="${name}"><img src="${imageUrl}" alt="${name}" width="110" height="110" /></a>`;
     });
 
-    return `<p>\n${items.join('\n')}\n</p>`;
+    return `<div align="center">\n${items.join(' ')}\n</div>`;
 }
 
 function updateReadme(badgeHTML) {
