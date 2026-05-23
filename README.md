@@ -121,7 +121,7 @@ class Attributes(WackyDawg):
 
 ### 🧠 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/treasure567?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/u/wackydawg/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/wackydawg?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/u/wackydawg/)
 
 
 [![wackydawg's Top Langs](https://github-readme-stats-seven-pi-82.vercel.app/api/top-langs/?username=wackydawg&langs_count=8&hide=c%2B%2B,c,java&layout=compact&theme=dracula)](https://github.com/WackyDawg/github-readme-stats)
