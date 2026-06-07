@@ -108,7 +108,7 @@ class Attributes(WackyDawg):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,js,css,html,flutter,nodejs,laravel,arduino,raspberrypi,dart,react,aws,azure,gcp,mysql,mongodb,postgresql,expressjs" />
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,js,css,html,flutter,nodejs,laravel,arduino,raspberrypi,dart,react,aws,azure,gcp,mysql,mongodb,postgresql,expressjs,kubernetes,jenkins,prometheus" />
   </a>
 </p>
 
